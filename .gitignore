@@ -1,0 +1,10 @@
+CinemaApp\obj
+CinemaApp\bin
+CinemaApp.Common\obj
+CinemaApp.Common\bin
+CinemaApp.Data\bin
+CinemaApp.Data\obj
+CinemaApp.Data.Models\obj
+CinemaApp.Data.Models\bin
+CinemaApp.Services\bin
+CinemaApp.Services\obj
