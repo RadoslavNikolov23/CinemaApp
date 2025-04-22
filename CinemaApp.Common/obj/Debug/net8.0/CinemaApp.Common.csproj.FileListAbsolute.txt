@@ -1,0 +1,11 @@
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.deps.json
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.pdb
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.AssemblyInfoInputs.cache
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.AssemblyInfo.cs
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.csproj.CoreCompileInputs.cache
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\refint\CinemaApp.Common.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.pdb
+C:\Applications - Projects\CinemaApp\CinemaApp.Common\obj\Debug\net8.0\ref\CinemaApp.Common.dll

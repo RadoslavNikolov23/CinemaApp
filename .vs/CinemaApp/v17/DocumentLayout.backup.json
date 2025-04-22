@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Applications - Projects\\CinemaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\seeding\\ticketseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\seeding\\ticketseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\files\\tickets.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\files\\tickets.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\files\\movies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\files\\movies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\files\\watchlists.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\files\\watchlists.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\seeding\\watchlistseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\seeding\\watchlistseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\seeding\\moviesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\seeding\\moviesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\seeding\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\seeding\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\seeding\\cinemamovieseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\seeding\\cinemamovieseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp.data\\seeding\\baseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7B8E21-2D0E-458E-AEE4-833697191580}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\seeding\\baseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79B7BA6-6A45-4B7E-B594-BB228CB9CB1C}|CinemaApp\\CinemaApp.csproj|c:\\applications - projects\\cinemaapp\\cinemaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79B7BA6-6A45-4B7E-B594-BB228CB9CB1C}|CinemaApp\\CinemaApp.csproj|solutionrelative:cinemaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 391,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tickets.xml",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Files\\tickets.xml",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Files\\tickets.xml",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Files\\tickets.xml",
+              "RelativeToolTip": "CinemaApp.Data\\Files\\tickets.xml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-22T18:16:52.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "movies.json",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Files\\movies.json",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Files\\movies.json",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Files\\movies.json",
+              "RelativeToolTip": "CinemaApp.Data\\Files\\movies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T18:16:47.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "watchlists.xml",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Files\\watchlists.xml",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Files\\watchlists.xml",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Files\\watchlists.xml",
+              "RelativeToolTip": "CinemaApp.Data\\Files\\watchlists.xml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-22T18:16:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WatchlistSeeder.cs",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\WatchlistSeeder.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Seeding\\WatchlistSeeder.cs",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\WatchlistSeeder.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Seeding\\WatchlistSeeder.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:16:29.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketSeeder.cs",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\TicketSeeder.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Seeding\\TicketSeeder.cs",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\TicketSeeder.cs*",
+              "RelativeToolTip": "CinemaApp.Data\\Seeding\\TicketSeeder.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:16:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesSeeder.cs",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\MoviesSeeder.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Seeding\\MoviesSeeder.cs",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\MoviesSeeder.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Seeding\\MoviesSeeder.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:16:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Seeding\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\IdentitySeeder.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Seeding\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:16:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CinemaMovieSeeder.cs",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\CinemaMovieSeeder.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Seeding\\CinemaMovieSeeder.cs",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\CinemaMovieSeeder.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Seeding\\CinemaMovieSeeder.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:16:06.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseSeeder.cs",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\BaseSeeder.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Seeding\\BaseSeeder.cs",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp.Data\\Seeding\\BaseSeeder.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Seeding\\BaseSeeder.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:15:59.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Applications - Projects\\CinemaApp\\CinemaApp\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaApp\\Program.cs",
+              "ToolTip": "C:\\Applications - Projects\\CinemaApp\\CinemaApp\\Program.cs",
+              "RelativeToolTip": "CinemaApp\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:15:43.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

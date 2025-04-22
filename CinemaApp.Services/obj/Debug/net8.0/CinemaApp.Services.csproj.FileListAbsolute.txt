@@ -1,0 +1,41 @@
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Services.deps.json
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Services.dll
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Services.pdb
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Data.dll
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Data.pdb
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.AssemblyInfo.cs
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaAp.4294DDB8.Up2Date
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.dll
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\refint\CinemaApp.Services.dll
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.pdb
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\ref\CinemaApp.Services.dll
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\Files\cinemasMovies.json
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\Files\movies.json
+C:\Users\PC\source\repos\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\Files\tickets.xml
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\Files\cinemasMovies.json
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\Files\movies.json
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\Files\tickets.xml
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\Files\watchlists.xml
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Services.deps.json
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Services.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Services.pdb
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Common.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Data.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Data.Models.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Data.pdb
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Common.pdb
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\bin\Debug\net8.0\CinemaApp.Data.Models.pdb
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.csproj.AssemblyReference.cache
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.AssemblyInfoInputs.cache
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.AssemblyInfo.cs
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.csproj.CoreCompileInputs.cache
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaAp.4294DDB8.Up2Date
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\refint\CinemaApp.Services.dll
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\CinemaApp.Services.pdb
+C:\Applications - Projects\CinemaApp\CinemaApp.Services\obj\Debug\net8.0\ref\CinemaApp.Services.dll
